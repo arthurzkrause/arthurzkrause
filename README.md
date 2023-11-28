@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfkFZQHzxkn0ZEdPMyQjZhli925cbTOEPEPYJnQTCo8v1HBVfyHPv1BWPnIK9157eRAEy-1VBpLmh6NphUOZAzrYjgnRWHl-PAqK-Oa8naAugFNzlztcbf60BEJUFogS0-7ujv_vH0yYCoCFT40Xx7uHlj5SYeTAlHZnlxYkq4FHBbsA2ZyHBkaxfHmY81/s1627/Github_perfil.png" alt="Texto Alternativo" title="ArtbyKalls que fez!" width="300">
+</p>
+
+
 ## Quem sou eu
 🧑‍🎓 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas.<br>
 🗨️ Bacharel em Fonoaudiologia.<br>
@@ -28,21 +33,3 @@
 <img src="https://img.shields.io/badge/Youtube-red?style=flat&logo=Youtube&logoColor=white&color=red"/></a>
 <a href="https://wa.me/message/UHU6AHOZKOC2I1">
 <img src="https://img.shields.io/badge/Whatasapp-darkgreen?logo=whatsapp&logoColor=white"/></a>
-
-
-
-
-<!--
-**arthurzkrause/arthurzkrause** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Oi gentem! 👋
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
