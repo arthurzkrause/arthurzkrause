@@ -11,17 +11,20 @@
 ## Cursos
 ### 💻 [Curso de Python 3 do básico ao avançado - com projetos reais.](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)<br>
 - _Luiz Otávio Miranda e Tales Calogi Malaquias._ 
-  - Em andamento 
+  - Em andamento
+  🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜
 
 
 ### 🐍 [Curso do 0 ao Python](https://kenzie.com.br/)<br>
 - _Kenzie Academy Brasil_
   - Em andamento
+  🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜
 
 ## Graduação
 ### 🎓 [Análise e Desenvolvimento de Sistemas: Full-Stack e Mobile](https://online.pucrs.br/graduacao/analise-desenvolvimento-sistemas-full-stack-mobile#checkout)<br>
 - _Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS Online)_ 
   - Início em fev/2024 </div>
+  🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 ## Redes
 <br>
