@@ -7,6 +7,7 @@
 🧑‍🎓 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas.<br>
 🗨️ Bacharel em Fonoaudiologia.<br>
 🎲 Narrador de RPG.<br>
+✍️ Atualmente criando Visual Novels com Ren'py<br>
 
 ## Cursos
 ### 💻 [Curso de Python 3 do básico ao avançado - com projetos reais.](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)<br>
