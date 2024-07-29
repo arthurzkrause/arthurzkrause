@@ -25,7 +25,7 @@
 ### 🎓 [Análise e Desenvolvimento de Sistemas: Full-Stack e Mobile](https://online.pucrs.br/graduacao/analise-desenvolvimento-sistemas-full-stack-mobile#checkout)<br>
 - _Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS Online)_ 
   - Início em fev/2024 </div>
-  🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜
+  🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜
 
 ## Redes
 <br>
