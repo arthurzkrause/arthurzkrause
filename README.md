@@ -13,7 +13,7 @@
 ### 💻 [Curso de Python 3 do básico ao avançado - com projetos reais.](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)<br>
 - _Luiz Otávio Miranda e Tales Calogi Malaquias._ 
   - Em andamento
-  🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜
+  🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜
 
 
 ### 🐍 [Curso do 0 ao Python](https://kenzie.com.br/)<br>
